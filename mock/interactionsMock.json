@@ -1,0 +1,35 @@
+
+[
+  {
+    "id": "INT-3001",
+    "customerId": "CUS-1001",
+    "type": "Meeting",
+    "date": "2025-03-28",
+    "duration": 60,
+    "userId": "USR-101",
+    "summary": "Presented enterprise solution proposal. Client had questions about implementation timeline and resource requirements.",
+    "followUpDate": "2025-04-10",
+    "followUpType": "Proposal Review"
+  },
+  {
+    "id": "INT-3002",
+    "customerId": "CUS-1002",
+    "type": "Call",
+    "date": "2025-04-02",
+    "duration": 30,
+    "userId": "USR-102",
+    "summary": "Discussed pricing options and volume discounts. Client requested a revised proposal with tiered pricing.",
+    "followUpDate": "2025-04-07",
+    "followUpType": "Send Revised Proposal"
+  },
+  {
+    "id": "INT-3003",
+    "customerId": "CUS-1003",
+    "type": "Email",
+    "date": "2025-01-15",
+    "duration": null,
+    "userId": "USR-103",
+    "summary": "Client informed us they selected a competitor solution. Offered to keep in touch for future needs.",
+    "followUpDate": "2025-07-15",
+    "followUpType": "Reconnect"}
+]
