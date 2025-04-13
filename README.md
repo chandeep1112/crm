@@ -125,7 +125,7 @@ GET /api/interactions?type=email&startDate=2024-01-01&endDate=2024-12-31
 ## 📹 GDrive Video Walkthrough
 
 🎥 [Click to watch demo](https://drive.google.com/drive/folders/1HapVZxTJvRO1NgTCGKbcFnLoAXz0DfUM?usp=share_link)
-(Replace this with your actual Loom link)
+
 
 ---
 
